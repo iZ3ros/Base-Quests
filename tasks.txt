@@ -3,4 +3,5 @@ Goal to become pro Starts here
 1- onchain identity 
 register you base.name
 to show yourself to world of crypto 
+but it should be unique.
 
