@@ -1,3 +1,5 @@
 # Base-Quests
-Helping to increase adoption of Base Chain by Coinbase
+Helping to increase adoption of Base Chain by Coinbase.
+
 day 1 on chain 
+day 2 on chain
