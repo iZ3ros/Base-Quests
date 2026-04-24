@@ -6,4 +6,6 @@ register you base.name
 to show yourself to world of crypto 
 but it should be unique.
 go get your onchain Identity 
+2- defi usage
+supply borrow etc on money markets
 
