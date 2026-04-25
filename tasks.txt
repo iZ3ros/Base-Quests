@@ -9,4 +9,5 @@ go get your onchain Identity
 supply borrow etc on money markets
 (must dyor)
 i use aave & morpho
-these are more secured than other 
+these are more secured than other dapps.
+always keep risk in mind
