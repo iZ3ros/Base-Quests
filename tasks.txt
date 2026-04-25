@@ -1,4 +1,3 @@
-
 Goal to become pro Starts here 
 (Updated Over the time) ;
 1- onchain identity 
@@ -8,5 +7,6 @@ but it should be unique.
 go get your onchain Identity 
 2- defi usage
 supply borrow etc on money markets
-(dyor)
+(must dyor)
+i use aave & morpho
 
