@@ -16,4 +16,4 @@ then increase later if you can.
 3- swapping 
 use dexs & swap daily with good volume 
 & provide liquidity in pools (choose stable coins & avoid volatility) avoid new dexs
-
+which can drain your wallets.
