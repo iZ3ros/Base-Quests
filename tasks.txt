@@ -18,3 +18,4 @@ use dexs & swap daily with good volume
 & provide liquidity in pools (choose stable coins & avoid volatility) avoid new dexs
 which can drain your wallets.
 dont allow unlimited approvals.
+only approve amount which you want to swap.
