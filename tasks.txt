@@ -17,4 +17,4 @@ then increase later if you can.
 use dexs & swap daily with good volume 
 & provide liquidity in pools (choose stable coins & avoid volatility) avoid new dexs
 which can drain your wallets.
-dont allow unlimited 
+dont allow unlimited approvals.
