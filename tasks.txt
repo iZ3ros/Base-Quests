@@ -24,4 +24,4 @@ carefully proceed.
 dont be fooled.
 4- txn increasing
 try to increase txns 
-minimum 100-150 txns required for good
+minimum 100-150 txns required for good wallet health.
