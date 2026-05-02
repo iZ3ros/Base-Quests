@@ -28,4 +28,6 @@ minimum 100-150 txns required for good wallet health.
 max no limit 
 but try to reach 1k txns.
 this will increase wallet's reputation & will make your wallet Standout.
-try to increase with genuine txns like swapping lending etc & not just wallet to wallet trabsfers.
+try to increase with genuine txns like swapping lending etc & not just wallet to wallet transfers.
+this will save you from Sybil tag.
+
